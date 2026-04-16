@@ -1,20 +1,74 @@
-# STEPS TO LAND YOUR FIRST FRONTEND JOB
+# Frontend Development
 
-To land your first frontend job, focus on mastering __HTML__, __CSS__, and __JavaScript__ then build a portfolio to showcase your 3 to 5 polished real-world frontend projects.
+A frontend developer is a software developer who builds the part of a website or web app that users see and interact with directly.
 
-### STEPS TO GET YOUR FIRST FRONTEND JOB:
+### Frontend Roadmap
 
-- __Master the Essentials:__ Ensure proficiency in semantic HTML, CSS (including responsive web design), and modern javascript (ES6+), particularly handling APIs and manipulating the DOM.
-- __Build a Strong Portfolio:__ Create 3—5 unique frontend projects, such as a weather app using APIs, a complex e-commerce website frontend, or an interactive dashboard rather than just a tutorial clones.
-- __Develop a Portfolio Website:__ Showcase your frontend projects on a personal, responsive website. Make sure it's easy to navigate and links directly to live demos and Github code.
-- __Leverage Linkedin and Networking:__ Optimize your linkedin profile to highlight projects, skills, and your career change. Connect with recruiters and developers. Attend local tech meetups or virtual events.
-- __Contribute to Open Source Project:__ Contribute to open-source projects on github to gain experience working on existing codebases and show teamwork skills.
-- __Apply Strategically:__ Apply to junior or even entry-level positions even if you don't meet 100% of the requirements. Rejections are normal—treat them as learning experiences, as it often takes many applications to land the first role.
-- __Prefare for Interviews:__ Practice technical questions, including white boarding or take home projects (building a landing page or API challenge).
+**Technologies**
 
-### KEY SKILLS TO HIGHLIGHT:
+- HTML
+- CSS
+- JavaScript
 
-- JavaScript Frameworks: React, Vue, or Angular.
-- Version Control: Git and Github.
-- CSS Frameworks: TailwindCSS, Bootstrap, or SASS.
-- Tooling: Webpack, Vite, or NPM
+**Version Control & VCS Hoisting**
+
+- Git
+- Github
+- GitLab
+
+**Package Managers**
+
+- npm (Node Package Manager)
+- yarn
+- pnpm
+- bun
+
+**CSS Frameworks**
+
+- TailwindCSS
+- Bootstrap
+
+**Frontend Framework**
+
+- React
+- Vue.js
+- Angular
+- Svelte
+- Solid JS
+
+**Deployment**
+
+- Github Pages
+- Vercel
+- Netlify
+
+### Real-World Practice & Project-Based
+
+| Website | |
+| ----- | ----- |
+| 1. Frontend Mentor | [Link](https://www.frontendmentor.io) |
+| 2. Frontend Practice | [Link](https://www.frontendpractice.com) |
+| 3. Codewell | [Link](https://codewell-clone.vercel.app) |
+| 4. DevChallenges.io | [Link](https://devchallenges.io) |
+| 5. Codepen | [Link](https://codepen.io) |
+
+### Gamified Learning & Interactive
+
+| Website | |
+| ----- | ----- |
+| 1. freeCodeCamp | [Link](https://www.freecodecamp.org)
+| 2. Scrimba | [Link](https://www.scrimba.com) |
+| 3. Codewars | [Link](https://www.codewars.com) |
+| 4. CSSBattle | [Link](https://www.cssbattle.dev) |
+| 5. Flexbox Froggy | [Link](https://www.flexboxfroggy.com) |
+| 6. Grid Graden | [Link](https://www.cssgridgarden.com)
+
+### Documentation & Reference
+
+| Website | |
+| ----- | ----- |
+| 1. MDN Web Docs | [Link](https://developer.mozilla.org) |
+| 2. Codepen | [Link](https://www.codepen.io)
+| 3. W3schools | [Link](https://www.w3schools.com)
+| 4. JavaScript30 | [Link](https://javascript30.com)
+| 5. Can I Use | [Link](https://caniuse.com)
